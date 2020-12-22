@@ -1,0 +1,1049 @@
+fileFormatVersion: 2
+guid: d0aece8651b754c34b76fd8313a45932
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2899086513664804589
+    second: Medieval_props_modified_0
+  - first:
+      213: 9183059549901329863
+    second: Medieval_props_modified_1
+  - first:
+      213: 2121142751806278689
+    second: Medieval_props_modified_2
+  - first:
+      213: 4600360467406970279
+    second: Medieval_props_modified_3
+  - first:
+      213: 5321544279921873439
+    second: Medieval_props_modified_4
+  - first:
+      213: -5345155648552220137
+    second: Medieval_props_modified_5
+  - first:
+      213: -3781077265005775516
+    second: Medieval_props_modified_6
+  - first:
+      213: -4089930521580513545
+    second: Medieval_props_modified_7
+  - first:
+      213: 3552728647995926858
+    second: Medieval_props_modified_8
+  - first:
+      213: 8775533648247607332
+    second: Medieval_props_modified_9
+  - first:
+      213: 8641283157332346054
+    second: Medieval_props_modified_10
+  - first:
+      213: -1550368635844662404
+    second: Medieval_props_modified_11
+  - first:
+      213: 2862391872699574355
+    second: Medieval_props_modified_12
+  - first:
+      213: -1346074478566935074
+    second: Medieval_props_modified_13
+  - first:
+      213: -5957546828241343543
+    second: Medieval_props_modified_14
+  - first:
+      213: -7270915342699423666
+    second: Medieval_props_modified_15
+  - first:
+      213: 6370756640567407901
+    second: Medieval_props_modified_16
+  - first:
+      213: 4642148085670458113
+    second: Medieval_props_modified_17
+  - first:
+      213: -1135175471690946255
+    second: Medieval_props_modified_18
+  - first:
+      213: 4759916710526913667
+    second: Medieval_props_modified_19
+  - first:
+      213: 308510582796198357
+    second: Medieval_props_modified_20
+  - first:
+      213: 4131916176102304940
+    second: Medieval_props_modified_21
+  - first:
+      213: 6330696228286835406
+    second: Medieval_props_modified_22
+  - first:
+      213: 5093197656962588580
+    second: Medieval_props_modified_23
+  - first:
+      213: 512916566389165263
+    second: Medieval_props_modified_24
+  - first:
+      213: 3028089101687551372
+    second: Medieval_props_modified_25
+  - first:
+      213: -7487535138065928497
+    second: Medieval_props_modified_26
+  - first:
+      213: 9059790717061787349
+    second: Medieval_props_modified_27
+  - first:
+      213: -631111208790944275
+    second: Medieval_props_modified_28
+  - first:
+      213: 2634170647550003835
+    second: Medieval_props_modified_29
+  - first:
+      213: 3415627644626495129
+    second: Medieval_props_modified_30
+  - first:
+      213: 770532734759092342
+    second: Medieval_props_modified_31
+  - first:
+      213: 3726260238705641622
+    second: Medieval_props_modified_32
+  - first:
+      213: 4729681664411733869
+    second: Medieval_props_modified_33
+  - first:
+      213: 2992957573283311562
+    second: Medieval_props_modified_34
+  - first:
+      213: -8105219001592992884
+    second: Medieval_props_modified_35
+  - first:
+      213: -7076457075961647649
+    second: Medieval_props_modified_36
+  - first:
+      213: -6199687386391261637
+    second: Medieval_props_modified_37
+  - first:
+      213: 539662379902821523
+    second: Medieval_props_modified_38
+  - first:
+      213: -7902770483463322
+    second: Medieval_props_modified_39
+  - first:
+      213: -5585320669027347399
+    second: Medieval_props_modified_40
+  - first:
+      213: 4777784933165959640
+    second: Medieval_props_modified_41
+  - first:
+      213: 786922108917009874
+    second: Medieval_props_modified_42
+  - first:
+      213: -1671577971304340536
+    second: Medieval_props_modified_43
+  - first:
+      213: -6636783675847572557
+    second: Medieval_props_modified_44
+  - first:
+      213: 5719488921241587900
+    second: Medieval_props_modified_45
+  - first:
+      213: 8708902701896622666
+    second: Medieval_props_modified_46
+  - first:
+      213: 4230830395913780
+    second: Medieval_props_modified_47
+  - first:
+      213: -5571005761292108010
+    second: Medieval_props_modified_48
+  - first:
+      213: -6985552276130721345
+    second: Medieval_props_modified_49
+  - first:
+      213: 5951415835409325044
+    second: Medieval_props_modified_50
+  - first:
+      213: 2326158217474115943
+    second: Medieval_props_modified_51
+  - first:
+      213: 771337441773604232
+    second: Medieval_props_modified_52
+  - first:
+      213: 2811013998205162534
+    second: Medieval_props_modified_53
+  - first:
+      213: 6864465140497766315
+    second: Medieval_props_modified_54
+  - first:
+      213: -3108232816028742127
+    second: Medieval_props_modified_55
+  - first:
+      213: 7985965187448602576
+    second: Medieval_props_modified_56
+  - first:
+      213: 8436474089045339968
+    second: Medieval_props_modified_57
+  - first:
+      213: 3750170838100097415
+    second: Medieval_props_modified_58
+  - first:
+      213: -2960399663192058901
+    second: Medieval_props_modified_59
+  - first:
+      213: -6544513222809665725
+    second: Medieval_props_modified_60
+  - first:
+      213: 8537193811362270590
+    second: Medieval_props_modified_61
+  - first:
+      213: -5065725245722453024
+    second: Medieval_props_modified_62
+  - first:
+      213: -5155642428157437669
+    second: Medieval_props_modified_63
+  - first:
+      213: 2097503938507812231
+    second: Medieval_props_modified_64
+  - first:
+      213: 926379595408794368
+    second: Medieval_props_modified_65
+  - first:
+      213: -3974818069550699504
+    second: Medieval_props_modified_66
+  - first:
+      213: -2713098677611632947
+    second: Medieval_props_modified_67
+  - first:
+      213: 8161992302236597727
+    second: Medieval_props_modified_68
+  - first:
+      213: -8320002144206958029
+    second: Medieval_props_modified_69
+  - first:
+      213: 9137659767524833616
+    second: Medieval_props_modified_70
+  - first:
+      213: 7656473226779707949
+    second: Medieval_props_modified_71
+  - first:
+      213: 3273774049730695990
+    second: Medieval_props_modified_72
+  - first:
+      213: 6175094085828117756
+    second: Medieval_props_modified_73
+  - first:
+      213: 8485809435975275859
+    second: Medieval_props_modified_74
+  - first:
+      213: -8488538321768340318
+    second: Medieval_props_modified_75
+  - first:
+      213: 5950707259611709344
+    second: Medieval_props_modified_0
+  - first:
+      213: 4886271282045348037
+    second: Medieval_props_modified_1
+  - first:
+      213: -3583522677636272693
+    second: Medieval_props_modified_2
+  - first:
+      213: 177455042657870528
+    second: Medieval_props_modified_3
+  - first:
+      213: -2099582794046468333
+    second: Medieval_props_modified_4
+  - first:
+      213: 6899751008370920743
+    second: Medieval_props_modified_5
+  - first:
+      213: -5671326347398231472
+    second: Medieval_props_modified_6
+  - first:
+      213: 6439118649891148376
+    second: Medieval_props_modified_7
+  - first:
+      213: -3307918744959201371
+    second: Medieval_props_modified_8
+  - first:
+      213: -5732931817093572496
+    second: Medieval_props_modified_9
+  - first:
+      213: -4711480114181868882
+    second: Medieval_props_modified_10
+  - first:
+      213: -8255050120631836858
+    second: Medieval_props_modified_11
+  - first:
+      213: 836719604416581212
+    second: Medieval_props_modified_12
+  - first:
+      213: -4863880577775595381
+    second: Medieval_props_modified_13
+  - first:
+      213: 1484254753290850777
+    second: Medieval_props_modified_14
+  - first:
+      213: 8299209511013465802
+    second: Medieval_props_modified_15
+  - first:
+      213: -8254350636790520196
+    second: Medieval_props_modified_16
+  - first:
+      213: 3965136489225276441
+    second: Medieval_props_modified_17
+  - first:
+      213: -8053661037446034010
+    second: Medieval_props_modified_18
+  - first:
+      213: 3342654826095638068
+    second: Medieval_props_modified_19
+  - first:
+      213: 1091182157623600094
+    second: Medieval_props_modified_20
+  - first:
+      213: -3953327745191242985
+    second: Medieval_props_modified_21
+  - first:
+      213: -6236464785102520310
+    second: Medieval_props_modified_22
+  - first:
+      213: 7291879248378184830
+    second: Medieval_props_modified_23
+  - first:
+      213: 1307679238310764411
+    second: Medieval_props_modified_24
+  - first:
+      213: 6077339356249509744
+    second: Medieval_props_modified_25
+  - first:
+      213: 8299223407763270601
+    second: Medieval_props_modified_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval_props_modified_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 122
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af7e7379b8259250800000000000000
+      internalID: 5950707259611709344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 115
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8618aa7d58fc340800000000000000
+      internalID: 4886271282045348037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 115
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdeeea6c15c44ec0800000000000000
+      internalID: -3583522677636272693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 115
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2693dcb62767200800000000000000
+      internalID: 177455042657870528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 115
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f8658a298ccd2e0800000000000000
+      internalID: -2099582794046468333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 155
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d87945cf6d0cf50800000000000000
+      internalID: 6899751008370920743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 115
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ac30a2cb66b41b0800000000000000
+      internalID: -5671326347398231472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 115
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852da51db485c5950800000000000000
+      internalID: 6439118649891148376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 115
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afc9d47d69e712d0800000000000000
+      internalID: -3307918744959201371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_9
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 115
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0785a9003e88070b0800000000000000
+      internalID: -5732931817093572496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_10
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 115
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea27fd37cc57d9eb0800000000000000
+      internalID: -4711480114181868882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 115
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f91b407ab207d80800000000000000
+      internalID: -8255050120631836858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 67
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e0bdd0c00ac9b00800000000000000
+      internalID: 836719604416581212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 67
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8093cb6266008cb0800000000000000
+      internalID: -4863880577775595381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 68
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1161e85d1299410800000000000000
+      internalID: 1484254753290850777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 54
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace30844417bc2370800000000000000
+      internalID: 8299209511013465802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 31
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76e49a44d7a27d80800000000000000
+      internalID: -8254350636790520196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 60
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c4636f0aef60730800000000000000
+      internalID: 3965136489225276441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 52
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad00a1e4f5ab3090800000000000000
+      internalID: -8053661037446034010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 42
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436fc2caade736e20800000000000000
+      internalID: 3342654826095638068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 42
+        width: 20
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3266a1468a42f00800000000000000
+      internalID: 1091182157623600094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 55
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7131e238c55f229c0800000000000000
+      internalID: -3953327745191242985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 56
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a004bb5f150a379a0800000000000000
+      internalID: -6236464785102520310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74cf98da85f13560800000000000000
+      internalID: 7291879248378184830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_24
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 33
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f9aafb65fc52210800000000000000
+      internalID: 1307679238310764411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 31
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fc0c402fb075450800000000000000
+      internalID: 6077339356249509744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 31
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb265bd7b3cc2370800000000000000
+      internalID: 8299223407763270601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval_props_modified_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 6
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de69d508a7dabd70800000000000000
+      internalID: 9059790717061787349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
